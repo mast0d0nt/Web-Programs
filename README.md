@@ -53,4 +53,4 @@ This project is licensed under the MIT license. See the `LICENSE` file in root d
 
 ---
 
-*2025, author: mnc1337*
+*2025, author: mast0d0nt*
